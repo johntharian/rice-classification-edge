@@ -230,10 +230,6 @@ The app is a simple app that allows users to analyze rice grain quality or detec
     2. Choose to take a photo or select from gallery
     3. View the analysis results with confidence scores
 
-![App Screenshot](app/Screenshot_20260103_015644.png)
-![Grain Detection](app/healthyleaf.jpeg)
-![Defect Detection](app/jasmine.jpeg)
-
 
 #### Setup
 
@@ -241,6 +237,9 @@ The app is a simple app that allows users to analyze rice grain quality or detec
 2. Open the app in Android Studio
 3. Build and run the app
 
+![App Screenshot](app/Screenshot_20260103_015644.png)
+![Grain Detection](app/healthyleaf.jpeg)
+![Defect Detection](app/jasmine.jpeg)
 
 
 
