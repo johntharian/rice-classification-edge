@@ -16,7 +16,7 @@ The system aims to:
 
 ## 2. Datasets
 
-Two datasets were used during experimentation to explore different modeling strategies.
+Three datasets were used during experimentation to explore different modeling strategies.
 
 ### 2.1 Rice Quality Parameter Dataset 
 
